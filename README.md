@@ -10,6 +10,8 @@ The dataset used for this analysis is the [Global Terrorism Database (GTD)](http
 
 **Dataset Source:** [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/)
 
+**Note** : Dataset link for this project is provided by [AlmaBetter.com](https://grow.almabetter.com)
+
 ## Project Structure
 
 - **`/Capstone_EDA_Global_Terrorism.ipynb`:** Jupyter notebook containing the analysis and visualization code.
