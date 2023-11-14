@@ -21,7 +21,7 @@ The dataset used for this analysis is the [Global Terrorism Database (GTD)](http
 
 ### Notebooks
 
-- [`Capstone_EDA_Global_Terrorism.ipynb`](notebooks/01_Exploratory_Data_Analysis.ipynb): Analysis of patterns and trends in terrorist attacks.
+- [`Capstone_EDA_Global_Terrorism.ipynb`](/Capstone_EDA_Global_Terrorism.ipynb): Analysis of patterns and trends in terrorist attacks.
 
 ## Usage
 
